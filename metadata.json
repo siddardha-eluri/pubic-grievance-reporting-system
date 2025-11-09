@@ -1,0 +1,8 @@
+{
+  "name": "Public Grievance Redressal System",
+  "description": "An AI-powered platform for citizens to report grievances, track their resolution in real-time, and for administrators to efficiently manage and resolve these issues with AI-driven insights and solutions.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
